@@ -1,4 +1,4 @@
-<h1 align="center">✨ Welcome to Comma ✨</h1> 
+<h1 align="center">✨ Welcome to INFINITE ✨</h1> 
 <h3 align="center"> 🔥Full-Stack Developer🔥</h3>
 
 # My Skills 🏆
