@@ -1,6 +1,8 @@
 <h1 align="center">✨ Welcome to INFINITE ✨</h1> 
 <h3 align="center"> 🔥 Web/Moblie Developer 🔥</h3>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 # My Skills 🏆
 
  ✔ Frontend: React.js, Vue.js, Next.js, TypeScript, Angular.js  \
