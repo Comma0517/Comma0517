@@ -11,7 +11,7 @@
 # My Skills 🏆
 
  ✔ Frontend: React.js, Vue.js, Next.js, TypeScript, Angular.js  \
- ✔ Backend: Python, ASP.NET, Node.js, Laravel   \
+ ✔ Backend: Python, Ruby on Rails, ASP.NET, Node.js, Laravel   \
  ✔ Moblie: Android-Java/Kotlin, iOS-Swift, Hybird-React Native, Flutter, lonic   \
  ✔ Languages: Python, PHP, Golang, C#  \
  ✔ AI/ML: OpenAI/ChatGPT4/GPT3.5 , Stable diffuzion, Mid-journey etc.. GenerativeAI  \
