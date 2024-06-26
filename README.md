@@ -1,5 +1,5 @@
 <h1 align="center">✨ Welcome to INFINITE ✨</h1> 
-<h3 align="center"> 🔥 Web/Moblie Developer 🔥</h3>
+<h3 align="center"> 🔥 Full-Stack Web/Mobile & AI/ML Specialist 🔥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=th37rose&label=Profile%20views&color=0e75b6&style=flat" alt="th37rose" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=th37rose" alt="ryo-ma" /></a> </p>
@@ -14,7 +14,7 @@
  ✔ Backend: Python, Ruby on Rails, ASP.NET, Node.js, Laravel   \
  ✔ Moblie: Android-Java/Kotlin, iOS-Swift, Hybird-React Native, Flutter, lonic   \
  ✔ Languages: Python, PHP, Golang, C#  \
- ✔ AI/ML: OpenAI/ChatGPT4/GPT3.5 , Stable diffuzion, Mid-journey etc.. GenerativeAI  \
+ ✔ AI/ML: OpenAI/ChatGPT4/GPT3.5/GPT-4o , Stable diffuzion, Mid-journey etc.. GenerativeAI  \
  ✔ Web: CSS3 (including SASS and Stylus), HTML5, Bootstrap, Jquery, Tailwind CSS  \
  ✔ Databases: DynamoDB, MongoDB, PostgreSQL, MySQL, Redis  \
  ✔ Cloud services: Amazon Web Service, Firebase  \
