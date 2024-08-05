@@ -9,11 +9,11 @@
 
 # My Skills 🏆
 
- ✔ Frontend: React.js, Vue.js, Next.js, TypeScript, Angular.js  \
  ✔ Backend: Python, Ruby on Rails, ASP.NET, Node.js, Laravel   \
+ ✔ Frontend: React.js, Vue.js, Next.js, TypeScript, Angular.js  \
  ✔ Moblie: Android-Java/Kotlin, iOS-Swift, Hybird-React Native, Flutter, lonic   \
  ✔ Languages: Python, PHP, Golang, C#  \
- ✔ AI/ML: OpenAI/ChatGPT4/GPT3.5/GPT-4o , Stable diffuzion, Mid-journey etc.. GenerativeAI  \
+ ✔ AI/ML: OpenAI/ChatGPT4/GPT3.5/GPT-4o , Stable diffuzion, Mid-journey etc.. GenerativeAI Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch \
  ✔ Web: CSS3 (including SASS and Stylus), HTML5, Bootstrap, Jquery, Tailwind CSS  \
  ✔ Databases: DynamoDB, MongoDB, PostgreSQL, MySQL, Redis  \
  ✔ Cloud services: Amazon Web Service, Firebase  \
