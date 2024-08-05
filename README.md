@@ -33,6 +33,3 @@ My Working Style.rm, Serverless framework:
  ✔ Agile Scrum workflow  
 
 
-# Contact me - Comma ✨
-
-    comma0517@gmail.com
